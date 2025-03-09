@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+media promosi berbasis website pada rumah produksi workspace
 
-Template Name: Groovin
-Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Tools : Visual Studio Code, Xampp
+
+Bahasa Pemrograman : JS, CSS, PHP
+
+Database : Mysql
